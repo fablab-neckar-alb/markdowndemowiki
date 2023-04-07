@@ -10,7 +10,7 @@ Zu Schulferienzeiten oder an Feiertagen kann es sich lohnen die Offenen Abende a
 
 ## Lab-Manager
 
-Es sollten immer 2 Personen pro offenem Abend (aktuell 18-22 Uhr am Montag und Donnerstag) als LabManager im Lab sein. Wer sich gerne als LabManager eintragen möchte kann dies über die [Homepage/termine-buchen](https://www.fablab-neckar-alb.org/termine-buchen/) machen. Das Passwort findet sich im privaten Teil des wikis unter [Lab-Manager](https://wiki.fablab-neckar-alb.org/doku.php?id=termine:labmanger). Es gibt zwei Buchungsarten: 1. LabManager Buchung und 2. LabManager Buchung. Die Reihenfolge hat nichts mit irgedn einer Hirarchie oder Verantwortung zu tun. Beide LabManager sind gleich verantwortlich und machen ihren Job nach besten Wissen und Gewissen.
+Es sollten immer 2 Personen pro offenem Abend (aktuell 18-22 Uhr am Montag und Donnerstag) als LabManager im Lab sein. Wer sich gerne als LabManager eintragen möchte kann dies über die [Homepage/termine-buchen](https://www.fablab-neckar-alb.org/termine-buchen/) machen. Das Passwort findet sich im privaten Teil des Wikis unter [Lab-Manager](https://wiki.fablab-neckar-alb.org/doku.php?id=termine:labmanger). Es gibt zwei Buchungsarten: 1. LabManager Buchung und 2. LabManager Buchung. Die Reihenfolge hat nichts mit irgedn einer Hirarchie oder Verantwortung zu tun. Beide LabManager sind gleich verantwortlich und machen ihren Job nach besten Wissen und Gewissen.
 
 Hinweis: Bitte schaut euch auch die Infos termin buchen an!!
 

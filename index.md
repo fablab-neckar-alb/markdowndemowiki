@@ -2,7 +2,7 @@
 
 ## Aktuelles
 
-[Workshops](/events/workshops.md) finden wieder statt!
+[Workshops](/events/workshops/index.md) finden wieder statt!
 
 Eine Übersicht über die letzten Workshops findet sich im Wiki, die aktuellen Termine öffentlich auf www.fablab-neckar-alb.org.
 Zur Eintragung künftiger Workshops gibt es eine Übersicht.
