@@ -20,3 +20,4 @@ Hier eine Sammlung von Workshopideen falls Du einen Workshop anlegen machen wils
 * [Einfürungskurs Löten](/events/workshops/soldering.md)
 * [Platinendesign mit KiCad](/events/workshops/kicad.md)
 * [Fahrradreparaturkaffee](/events/workshops/bikecaffee.md)
+* [Git für Anfänger](/events/workshops/git.md)
