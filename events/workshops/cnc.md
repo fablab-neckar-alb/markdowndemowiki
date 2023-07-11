@@ -7,4 +7,4 @@
 
 ## CNC Workshop
 
-CNC ist blöd
+CNC ist supertoll
