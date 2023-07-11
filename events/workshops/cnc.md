@@ -8,3 +8,8 @@
 ## CNC Workshop
 
 CNC ist supertoll
+
+Tools:
+
+* LinuxCNC
+* GRBL
