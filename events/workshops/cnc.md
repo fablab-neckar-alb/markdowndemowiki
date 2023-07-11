@@ -7,4 +7,4 @@
 
 ## CNC Workshop
 
-CNC ist super
+CNC ist blöd
